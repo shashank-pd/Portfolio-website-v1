@@ -438,7 +438,7 @@ position: absolute;
 top: -25px;
 left: -30px;
 width: 1px;
-height: calc(100% + 50px);
+height: calc(30px);
 background: var(--jet);
 }
 
