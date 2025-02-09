@@ -13,6 +13,7 @@ Welcome to Shashank's Portfolio! This project showcases my skills, projects, and
     - [Portfolio Section](#portfolio-section-)
     - [Awards Section](#awards-section-)
     - [Contact Section](#contact-section-)
+- [Screenshots](#screenshots-)
 - [Technologies Used](#technologies-used-)
 - [Setup](#setup-)
 - [License](#license-)
@@ -22,7 +23,7 @@ Welcome to Shashank's Portfolio! This project showcases my skills, projects, and
 ### Responsive Design 📱💻
 - The portfolio is designed to be fully responsive, ensuring a seamless experience across various devices and screen sizes. The CSS media queries handle different screen widths to adjust the layout accordingly.
 
-### Sidebar 📋
+### Sidebar 🗌
 - The sidebar contains personal information, social media links, and contact details. It includes a toggle functionality for mobile devices to show or hide the contact information.
 
   - **Avatar** 🖼️: Displays a profile picture.
@@ -30,10 +31,10 @@ Welcome to Shashank's Portfolio! This project showcases my skills, projects, and
   - **Social Links** 🌐: Links to Instagram, GitHub, and LinkedIn profiles.
   - **Contact Information** 📧📍: Email and location details, which can be toggled on mobile devices.
 
-### Main Content 🏗️
+### Main Content 🗷️
 - The main content is divided into several sections, each highlighting different aspects of the portfolio.
 
-#### About Section 📝
+#### About Section 🗒️
 - Provides a brief introduction about the web developer, including their journey, motivation, and approach to work.
 
 #### Timeline Section 🕒
@@ -54,20 +55,28 @@ Welcome to Shashank's Portfolio! This project showcases my skills, projects, and
 
   - Displays awards with images, titles, and descriptions.
 
-#### Contact Section 📬
+#### Contact Section 📤
 - Provides a contact form for visitors to get in touch with the web developer.
 
   - Includes fields for name, email, and message, and a submit button.
 
+## Screenshots 🖼️
+
+### 1. Web View  
+<img src="./web_View.png" alt="Web View" width="40%">
+
+### 2. Mobile View  
+<img src="./mobile_view.jpg" alt="Mobile View" width="20%">
+
 ## Technologies Used 🧑‍💻
 
-- **HTML** 🏗️: For structuring the content.
+- **HTML** 🗷️: For structuring the content.
 - **CSS** 🎨: For styling the content, including responsive design.
 - **JavaScript** ⚙️: For adding interactivity, such as the sidebar toggle functionality.
-- **Google Fonts** 🔤: For custom fonts.
+- **Google Fonts** 🔄: For custom fonts.
 - **Ionicons** 🔧: For icons used in social links and other sections.
 
-## Setup 🛠️
+## Setup ⚖️
 
 To run this project locally, follow these steps:
 
