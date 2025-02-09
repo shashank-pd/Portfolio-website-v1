@@ -3,22 +3,23 @@
 Welcome to Shashank's Portfolio! This project showcases my skills, projects, and achievements as a web developer. Below is a detailed overview of the features included in this portfolio.
 
 ## Table of Contents 📚
-- [Features](#-features)
-  - [Responsive Design](#-responsive-design)
-  - [Sidebar](#-sidebar)
-  - [Main Content](#-main-content)
-    - [About Section](#-about-section)
-    - [Timeline Section](#-timeline-section)
-    - [Skills Section](#-skills-section)
-    - [Portfolio Section](#-portfolio-section)
-    - [Awards Section](#-awards-section)
-    - [Contact Section](#-contact-section)
-- [Technologies Used](#-technologies-used)
-- [Setup](#-setup)
+- [Features](#features-)
+  - [Responsive Design](#responsive-design-)
+  - [Sidebar](#sidebar-)
+  - [Main Content](#main-content-)
+    - [About Section](#about-section-)
+    - [Timeline Section](#timeline-section-)
+    - [Skills Section](#skills-section-)
+    - [Portfolio Section](#portfolio-section-)
+    - [Awards Section](#awards-section-)
+    - [Contact Section](#contact-section-)
+- [Technologies Used](#technologies-used-)
+- [Setup](#setup-)
 - [License](#license-)
 
-## ✨ Features 
-### 📱💻 Responsive Design 
+## Features ✨
+
+### Responsive Design 📱💻
 - The portfolio is designed to be fully responsive, ensuring a seamless experience across various devices and screen sizes. The CSS media queries handle different screen widths to adjust the layout accordingly.
 
 ### Sidebar 📋
@@ -35,10 +36,10 @@ Welcome to Shashank's Portfolio! This project showcases my skills, projects, and
 #### About Section 📝
 - Provides a brief introduction about the web developer, including their journey, motivation, and approach to work.
 
-#### Timeline Section
+#### Timeline Section 🕒
 - Displays the educational background in a timeline format.
 
- - Lists the educational qualifications and institutions attended.
+  - Lists the educational qualifications and institutions attended.
 
 #### Skills Section 🛠️
 - Showcases the skills and proficiency levels in various technologies and soft skills.
@@ -46,17 +47,17 @@ Welcome to Shashank's Portfolio! This project showcases my skills, projects, and
 #### Portfolio Section 🖥️
 - Highlights the projects undertaken by the web developer with links to their GitHub repositories.
 
- - Displays projects with images, titles, and categories.
+  - Displays projects with images, titles, and categories.
 
 #### Awards Section 🏆
 - Showcases the awards and recognitions received by the web developer.
 
- - Displays awards with images, titles, and descriptions.
+  - Displays awards with images, titles, and descriptions.
 
 #### Contact Section 📬
 - Provides a contact form for visitors to get in touch with the web developer.
 
- - Includes fields for name, email, and message, and a submit button.
+  - Includes fields for name, email, and message, and a submit button.
 
 ## Technologies Used 🧑‍💻
 
