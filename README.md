@@ -5,17 +5,17 @@ Welcome to Shashank's Portfolio! This project showcases my skills, projects, and
 ## Table of Contents 📚
 - [Features](#-features)
   - [Responsive Design](#-responsive-design)
-  - [Sidebar](#sidebar)
-  - [Main Content](#main-content)
-    - [About Section](#about-section)
-    - [Timeline Section](#timeline-section)
-    - [Skills Section](#skills-section)
-    - [Portfolio Section](#portfolio-section)
-    - [Awards Section](#awards-section)
-    - [Contact Section](#contact-section)
-- [Technologies Used](#technologies-used)
-- [Setup](#setup)
-- [License](#license)
+  - [Sidebar](#-sidebar)
+  - [Main Content](#-main-content)
+    - [About Section](#-about-section)
+    - [Timeline Section](#-timeline-section)
+    - [Skills Section](#-skills-section)
+    - [Portfolio Section](#-portfolio-section)
+    - [Awards Section](#-awards-section)
+    - [Contact Section](#-contact-section)
+- [Technologies Used](#-technologies-used)
+- [Setup](#-setup)
+- [License](#license-)
 
 ## ✨ Features 
 ### 📱💻 Responsive Design 
