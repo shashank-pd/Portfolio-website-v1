@@ -17,7 +17,7 @@ Welcome to Shashank's Portfolio! This project showcases my skills, projects, and
 - [Setup](#setup)
 - [License](#license)
 
-## ✨Features 
+## ✨ Features 
 ### 📱💻 Responsive Design 
 - The portfolio is designed to be fully responsive, ensuring a seamless experience across various devices and screen sizes. The CSS media queries handle different screen widths to adjust the layout accordingly.
 
