@@ -11,9 +11,8 @@
     <link rel="shortcut icon" type="image/png" sizes="32x32" href="./assets/favicon_io/favicon-32x32.png">
     <link rel="shortcut icon" type="image/png" sizes="16x16" href="./assets/favicon_io/favicon-16x16.png">
     <link rel="manifest" href="/site.webmanifest">
-    
-<script src="./assets/CSS/style.css" ></script>
-   
+
+    <link rel="stylesheet" href="./assets/CSS/style.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -51,7 +50,7 @@
                 </div>
                 <button class="info_more-btn" data-sidebar-btn>
                     <span>Show Contacts</span>
-                    <ion-icon name="arrow-down-circle-outline"></ion-icon>
+                    <ion-icon name="arrow-down-outline"></ion-icon>
                 </button>
             </div>
             <div class="sidebar-info_more">
@@ -80,6 +79,12 @@
                 
             </div>
         </aside>
+
+
+        <!--
+      - #main-content
+    -->
+
         <div class="main-content">
             <!--NAVBAR-->
             <nav class="navbar">
@@ -90,13 +95,10 @@
                         <a class="navbar-link" data-nav-link href="#about-nav">About</a>
                     </li>
                     <li class="navbar-item">
-                        <a class="navbar-link" data-nav-link href="#skills-nav">Skills</a>
-                    </li>
-                    <li class="navbar-item">
                         <a class="navbar-link" data-nav-link href="#portfolio-nav">Portfolio</a>
                     </li>
                     <li class="navbar-item">
-                        <a class="navbar-link" data-nav-link href="#award-nav">Awards</a>
+                        <a class="navbar-link" data-nav-link href="#skills-nav">Skills</a>
                     </li>
 
                     <li class="navbar-item">
@@ -106,6 +108,11 @@
                 </ul>
 
             </nav>
+
+            <!--
+        - #ABOUT
+      -->
+
             <article class="about active" id="about-nav" data-page="about">
                 <header>
                     <h2 class="h2 article-title">About me</h2>
@@ -153,11 +160,14 @@
                                 in Big Data Analysis
                             </p>
                         </li>
-                         <li>
+                        <li>
                             <h4 class="h4 timeline-item-title"></h4>
                             <span></span>
-                            <p class="timeline-text"></p>
+                            <p class="timeline-text">
+                               
+                            </p>
                         </li>
+                       
                     </ol>
                 </section>
             </article>
@@ -234,6 +244,10 @@
                     </ul>
                 </section>
             </article>
+            <!--
+        - #PORTFOLIO
+      -->
+
             <article class="portfolio active" id="portfolio-nav" data-page="portfolio">
 
                 <header>
@@ -332,10 +346,18 @@
 
                             </a>
                         </li>
+
+
+
+
                     </ul>
+
                 </section>
-                
             </article>
+            <!--
+        - #Awards
+      -->
+
             <article class="award active" id="award-nav" data-page="award">
                 <header>
                     <h2 class="h2 article-title">Awards</h2>
@@ -394,7 +416,7 @@
 
                     <h3 class="h3 form-title">Contact Form</h3>
 
-                    <form class="form" action="https://formspree.io/f/xleykoeq" method="POST"
+                    <form class="form" action="https://formsubmit.co/68b4c930828cd6f2580beb92cb80dfb1" method="POST"
                         data-form>
 
                         <form action="https://formsubmit.co/your@email.com" method="POST">
@@ -424,9 +446,7 @@
     <script src="./assets/js/script.js"></script>
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-    <script>
-  window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };
-</script>
-<script defer src="/_vercel/insights/script.js"></script>
+
 </body>
+
 </html>
