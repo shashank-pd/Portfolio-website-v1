@@ -1,23 +1,27 @@
 # Shashank's Portfolio 🚀
+```
+Welcome to Shashank's Portfolio! This project showcases my skills, projects, and achievements as a web developer.
+Below is a detailed overview of the features included in this portfolio.
+```
 
-Welcome to Shashank's Portfolio! This project showcases my skills, projects, and achievements as a web developer. Below is a detailed overview of the features included in this portfolio.
 
-## Table of Contents 📚
-- [Features](#features-)
-  - [Responsive Design](#responsive-design-)
-  - [Sidebar](#sidebar-)
-  - [Main Content](#main-content-)
-    - [About Section](#about-section-)
-    - [Timeline Section](#timeline-section-)
-    - [Skills Section](#skills-section-)
-    - [Portfolio Section](#portfolio-section-)
-    - [Awards Section](#awards-section-)
-    - [Contact Section](#contact-section-)
-- [Screenshots](#screenshots-)
-- [Technologies Used](#technologies-used-)
-- [Setup](#setup-)
-- [License](#license-)
+## Screenshots 🖼️
 
+### 1. Web View  
+<img src="https://github.com/user-attachments/assets/fb009760-b2c0-4edb-ac79-f21594128560" width="600px" />
+
+
+### 2. Mobile View  
+<img src="https://github.com/user-attachments/assets/dd2db32b-b446-490d-88ee-f203ba9c0a69" width="300px"/>
+
+
+## Technologies Used 🧑‍💻
+
+- **HTML** 🗷️: For structuring the content.
+- **CSS** 🎨: For styling the content, including responsive design.
+- **JavaScript** ⚙️: For adding interactivity, such as the sidebar toggle functionality.
+- **Google Fonts** 🔄: For custom fonts.
+- **Ionicons** 🔧: For icons used in social links and other sections.
 ## Features ✨
 
 ### Responsive Design 📱💻
@@ -60,21 +64,6 @@ Welcome to Shashank's Portfolio! This project showcases my skills, projects, and
 
   - Includes fields for name, email, and message, and a submit button.
 
-## Screenshots 🖼️
-
-### 1. Web View  
-<img src="./web_View.png" alt="Web View" width="40%">
-
-### 2. Mobile View  
-<img src="./mobile_view.jpg" alt="Mobile View" width="20%">
-
-## Technologies Used 🧑‍💻
-
-- **HTML** 🗷️: For structuring the content.
-- **CSS** 🎨: For styling the content, including responsive design.
-- **JavaScript** ⚙️: For adding interactivity, such as the sidebar toggle functionality.
-- **Google Fonts** 🔄: For custom fonts.
-- **Ionicons** 🔧: For icons used in social links and other sections.
 
 ## Setup ⚖️
 
